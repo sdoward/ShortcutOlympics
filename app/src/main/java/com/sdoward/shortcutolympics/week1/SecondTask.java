@@ -4,7 +4,7 @@ public class SecondTask {
 
     //change equals to contentEquals without inserting
     public boolean equals(String first, String second) {
-        return first.contentEquals(second);
+        return first.equals(second);
     }
 
 }
