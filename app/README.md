@@ -1,3 +1,5 @@
+## Solutions
+
 1. Shift x2 and type "SecondTask"
 2. Use tab on the autocomplete rather than Enter
 3. ctrl, shift + space «x2
