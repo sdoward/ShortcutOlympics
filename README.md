@@ -12,11 +12,13 @@ This stems from [this talk about mouseless driven development](https://vimeo.com
 The game is based of [this talk](https://www.youtube.com/watch?v=Y2GC6P5hPeA). Which essentially
 demonstrates how effective android development can be without a mouse.
 
-**How to play**: A team of developers spends the week learning the shortcuts for that particular week. At the end of
-the week the developers must each go through the tasks and complete them without using the mouse.
+**How to play**: A team of developers spends the week learning the shortcuts for that particular
+ week. At the end of the week the developers must each go through the tasks and complete them
+ without using the mouse. To start the developer must open the `FirstTask.class` and follow the
+ instructions then navigate to the next task
 
 For each completed task 1 point is given. For each touch of the mouse a point is deducted. After
-the agreed upon time frame the developer with the most points is crowned the "shortcut champion"
+the agreed upon time frame (e.g. 1, 2 3 weeks etc) the developer with the most points is crowned the "shortcut champion"
 
 ## Agenda
 
